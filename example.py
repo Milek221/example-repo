@@ -1,6 +1,5 @@
 import random
 
-
 class Enemy():
     def __init__(self, ancestry, gear):
         self.enemy = ancestry
